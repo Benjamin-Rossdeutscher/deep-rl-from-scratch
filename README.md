@@ -25,18 +25,6 @@ The emphasis is on implementing core algorithms directly rather than relying on 
  - Generalised Advantage Estimate (GAE)
  - Proximal Policy Optimisation (PPO)
 
-## Repository Structure
-deep-rl-from-scratch/
-├── foundations/
-├── environments/
-├── agents/
-│   ├── dqn/
-│   ├── reinforce/
-│   └── ppo/
-├── networks/
-├── experiments/
-├── tests/
-└── README.md
 
 ## Experiments
 
